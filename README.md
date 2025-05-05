@@ -1,4 +1,5 @@
-##Por Fabio Diazgranados Martelo | Proyecto de Grado Grupo 202016907_9
+##Por Fabio Diazgranados Martelo | Proyecto de Grado Grupo 202016907_9_
+2025
 
 ## Instrucciones para levantar el proyecto
 
@@ -7,6 +8,7 @@
 C:\nombre_del _peoyecto> python -m venv env
 
 python -m venv env
+
 env\Scripts\activate
 
 2. Activar las dependencias
